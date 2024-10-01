@@ -1,9 +1,12 @@
-On peut trouver sur [openwebui](https://openwebui.com/)
+# [openwebui](https://openwebui.com/)
 -  Modelfiles
 -  Prompts
 
-[Llm-prompt-library](https://github.com/abilzerian/LLM-Prompt-Library)
 
-https://prompts.chat/
+# Other
 
-https://www.promptingguide.ai/introduction/examples
+- [Llm-prompt-library](https://github.com/abilzerian/LLM-Prompt-Library)
+
+- https://prompts.chat/
+
+- [promptingguide.ai](https://www.promptingguide.ai/introduction/examples)
